@@ -1,0 +1,6 @@
+Code nécessaire pour le rover L298 controllé par une manette bluetooth de chez Électromike.
+Necessary code for L298 rover controlled by bluetooth controller from Électromike.
+SKU:
+
+**Ne pas oubliez de débrancher le blutooth pour flasher le code sur le arduino UNO.
+**Don't forget to unplug blutooth when you need to flash arduino UNO.
